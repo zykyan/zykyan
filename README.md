@@ -31,7 +31,6 @@ I blend full-stack engineering with advanced data pipelines to build multi-tenan
 
 #### 🔭 Current & Recent Work
 * **SaaS Data Pipelines:** Architecting multi-tenant ELT workflows using Airbyte and dbt.
-* **Civic Tech:** Developing "Civic Alert" systems for municipal connectivity using Django & Flutter.
 * **Edge AI:** Implementing MediaPipe for mobile facial analysis applications.
 
 #### 🌱 Improving
@@ -39,4 +38,17 @@ I blend full-stack engineering with advanced data pipelines to build multi-tenan
 * Deep diving into **Pop!_OS** for optimized ML development environments.
 
 ---
-[🔗 LinkedIn](https://linkedin.com/in/yourprofile) | [🌐 Alpas Technology](https://yourcompany.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/naren-maharjan/) | [🌐 Alpas Technology](https://www.alpas.com.np)
+
+---
+<div align="center">
+  <a href="https://linkedin.com/in/naren-maharjan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:naren.mhrj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.alpas.com.np">
+    <img src="https://img.shields.io/badge/Alpas_Technology-Visit_Company-black?style=for-the-badge" alt="Alpas" />
+  </a>
+</div>
